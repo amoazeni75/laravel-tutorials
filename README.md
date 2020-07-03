@@ -1,5 +1,5 @@
 <h1> Laravel Tutorials </h1>
-<h3>To install Laravel locally</h3>
+<h3>Install, Config, and Run the Laravel locally</h3>
 <ol>
   <li>Download and install the composer</li>
   <li>Create an empty folder to store your project inside it</li>
@@ -11,4 +11,5 @@
     <li>Change mail settings if you want to send email(you can create an account in "mailgun")</li>
     <li>Create a database and set its name, username, and password to the DB_DATABASE, DB_USERNAME, and DB_PASSWORD</li> 
   </ul>
+  <li>To run, inside the project folder: <code>php artisan serve</code></li>
 </ol>
