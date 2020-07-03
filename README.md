@@ -9,5 +9,6 @@
   <ul>
     <li>Change APP_NAME to your project name, for example: "Basic Project"</li>
     <li>Change mail settings if you want to send email(you can create an account in "mailgun")</li>
+    </li>Create a database and set its name, username, and password to the DB_DATABASE, DB_USERNAME, and DB_PASSWORD</li> 
   </ul>
 </ol>
